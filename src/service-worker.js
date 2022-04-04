@@ -15,7 +15,7 @@ self.addEventListener('install', () => {
 });
 
 self.addEventListener('activate', (event) => {
-  event.waitUntil(clients.claim());
+  // event.waitUntil(clients.claim());
 });
 
 registerRoute(
