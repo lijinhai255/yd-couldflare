@@ -5,7 +5,7 @@ import React, { useEffect, useState } from "react";
 // import { precacheAndRoute } from "workbox-precaching";
 
 // Use with precache injection
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
